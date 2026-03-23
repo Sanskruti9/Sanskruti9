@@ -2,7 +2,7 @@
 
 <h3 align="center">Full-Stack Developer | Software Developer </h3>
 
-I am a software engineer and have experience working as Full stack developer. Interested in making life easier by creating utility tools. Fascinated about space.
+I am a software engineer and have experience working as Full stack developer. Passionate about development and enjoy building efficient, scalable solutions. I thrive in collaborative environments where continuous learning and impactful contributions are valued.
 
 - 🔭 I’m currently working on JavaScript, ReactJS, NodeJS, Java, Python, FastAPI, DataBase Modeling.
 - 🌱 I’m currently learning **Gen AI, Advanced System Design and Cloud Architecture** to deepen my full-stack expertise.
@@ -49,7 +49,6 @@ Email: [sanskrutimagdum@gmail.com](mailto:sanskrutimagdum@gmail.com)
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskruti-magdum" height="30" width="40" />
   </a>
 </p>
-
 
 <h2>⚡ Fun Fact: </h2>
 My first "Hello World" was in C, and I’ve been chasing that high ever since.
