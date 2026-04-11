@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer | AI/ML Enthusiast </h3>
 
-I am a software engineer and have experience working as Full stack developer. Interested in making life easier by creating utility tools. Fascinated about space.
+I am a software engineer and have experience working as Software Engineer. Interested in making life easier by creating utility tools. Fascinated about space.
 
 - 🔭 I’m currently working on JavaScript, Java, NodeJS, Python, FastAPI, DataBase Modeling.
 - 🌱 I’m currently learning **Gen AI, Advanced System Design and Cloud Architecture** to deepen my full-stack expertise.
