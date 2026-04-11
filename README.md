@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I am Sanskruti Magdum</h1>
 
-<h3 align="center">Full-Stack Developer | Software Developer </h3>
+<h3 align="center">Software Engineer | AI/ML Enthusiast </h3>
 
 I am a software engineer and have experience working as Full stack developer. Interested in making life easier by creating utility tools. Fascinated about space.
 
-- 🔭 I’m currently working on JavaScript, ReactJS, NodeJS, Java, Python, FastAPI, DataBase Modeling.
+- 🔭 I’m currently working on JavaScript, Java, NodeJS, Python, FastAPI, DataBase Modeling.
 - 🌱 I’m currently learning **Gen AI, Advanced System Design and Cloud Architecture** to deepen my full-stack expertise.
 - 👯 I’m looking to collaborate on Open Source React or NodeJS projects and innovative web applications.
 - ⚡ Currently Working at LTM.
@@ -31,6 +31,8 @@ Python, C++, Java and MERN Stack development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/53/2/fastapi-framework-logo-png_seeklogo-535865.png" height="40" alt="FastAPI logo"  />
   <img width="12" />
   <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" height="40" alt="AWS logo"  />
   <img width="12" />
