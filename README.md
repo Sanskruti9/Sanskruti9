@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I am Sanskruti Magdum</h1>
+<h1 align="center">Hi 👋, I am Sanskruti Magdum</h1>
 
 <h3 align="center">Software Engineer | AI/ML Enthusiast </h3>
 
